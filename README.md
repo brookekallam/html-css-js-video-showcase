@@ -1,4 +1,5 @@
-# WebDev Video Showcase
+Check out the live demo here:  
+[WebDev Video Showcase Live Demo](https://brookekallam.github.io/html-css-js-video-showcase/)
 
 This is a sleek, beginner-friendly HTML project built to demonstrate clean semantic markup, proper document structure, and responsive embedded video content. It features tutorials on HTML, CSS, and JavaScript—perfect for anyone diving into web development or brushing up on the basics.
 
